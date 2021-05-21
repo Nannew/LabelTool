@@ -11,7 +11,7 @@
 
 
 * Draw and label objects with line segments
-* Recognize boundary point when drawing
+* Recognize boundary points when drawing
 
 *Left click to start. Repeat left click to mark the boundary of an object*
 
@@ -24,13 +24,13 @@
 
 
 * Reset image (Ctrl+S) and class labels (Ctrl+M)
-* Add (Ctrl+N), clear (Ctrl+c), and delete (Ctrl+D) a class label
+* Add (Ctrl+N), clear (Ctrl+C), and delete (Ctrl+D) a class label
 
 <img src="../media/images/2.png?raw=true" width="400" height="400">
 
 
 
-* Show/hide a class label with checkable items in "Class" menu
+* Show/hide a class label with checkable items under "Class" menu
 
 <img src="../media/images/3.png?raw=true" width="400" height="400">    <img src="../media/images/4.png?raw=true" width="400" height="400">
 
