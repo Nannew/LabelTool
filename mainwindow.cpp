@@ -200,7 +200,7 @@ void MainWindow::createActions()
 
 
     //Delete current class
-    deleteClassAct = new QAction(tr("&Delte Class"), this);
+    deleteClassAct = new QAction(tr("&Delete Class"), this);
     deleteClassAct->setShortcut(tr("Ctrl+D"));
     connect(deleteClassAct, SIGNAL(triggered()),
             this, SLOT(deleteCurrentClass()));
