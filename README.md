@@ -1,9 +1,9 @@
 # LabelTool
-**LabelTool** is an simple annotation tool for creating label masks from images. The tool is written in C++ and based on Qt and reuse a few features from Qt Scribble example.
+**LabelTool** is a simple annotation tool for creating label masks from images. The tool is written in C++ and based on Qt and reuse a few features from Qt Scribble example.
 
 * This tool is rather a framework and lacks other features of a labelling tool.
 
-## The tool support the following features
+## The tool supports the following features
 * Open, save, and print images and masks
 
 <img src="../media/images/1.png?raw=true" width="400" height="400">
@@ -30,7 +30,7 @@
 
 
 
-* Show/hide an class label with checkable items under menu
+* Show/hide a class label with checkable items under menu
 
 <img src="../media/images/3.png?raw=true" width="400" height="400">    <img src="../media/images/4.png?raw=true" width="400" height="400">
 
